@@ -1,1 +1,2 @@
 #weibu
+python3.7利用selenium模块进行web自动化批量验证恶意域名IP，并将数据保存至本地xls文件。
